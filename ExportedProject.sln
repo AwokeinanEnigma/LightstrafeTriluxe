@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b2e9b75b-acda-a6e6-6d4c-f52ff86d00fa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2020.2", "JetBrains.Frontend.2020.2.csproj", "{1daa66a3-9bb5-0f49-3ba1-f12747242d86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{16fbc1e6-4e23-944f-6fad-b979fc47c3f1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2019.4", "JetBrains.Frontend.2019.4.csproj", "{16f7b1cf-db42-e95c-7084-8daede2bbb45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2022.2", "JetBrains.Frontend.2022.2.csproj", "{391cfc61-0faa-6475-b7a9-c0fb9944fdc5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2021.2", "JetBrains.Frontend.2021.2.csproj", "{ed1a5bad-1304-380b-cd89-d21f581fb760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b2e9b75b-acda-a6e6-6d4c-f52ff86d00fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b2e9b75b-acda-a6e6-6d4c-f52ff86d00fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1daa66a3-9bb5-0f49-3ba1-f12747242d86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1daa66a3-9bb5-0f49-3ba1-f12747242d86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16fbc1e6-4e23-944f-6fad-b979fc47c3f1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16fbc1e6-4e23-944f-6fad-b979fc47c3f1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16f7b1cf-db42-e95c-7084-8daede2bbb45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16f7b1cf-db42-e95c-7084-8daede2bbb45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391cfc61-0faa-6475-b7a9-c0fb9944fdc5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391cfc61-0faa-6475-b7a9-c0fb9944fdc5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ed1a5bad-1304-380b-cd89-d21f581fb760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ed1a5bad-1304-380b-cd89-d21f581fb760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
